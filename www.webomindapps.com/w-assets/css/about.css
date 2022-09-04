@@ -279,7 +279,7 @@ input[type=text].footer-form {
 }
 
 .contact-info a:hover {
-    color: #ff1b5a
+    color: #e6a337;
 }
 
 .font-size-big {
@@ -344,7 +344,7 @@ input[type=text].footer-form {
 
 .request-a-call {
     font-size: 26px;
-    color: #e2154e;
+    color: #e6a337;
     font-weight: 700
 }
 
@@ -1261,7 +1261,7 @@ input[type=text].former {
     padding: 10px 30px 10px 29px;
     text-transform: uppercase;
     margin-top: 2%;
-    background: #e10935;
+    background: #e6a337;
     border: none
 }
 
@@ -1272,8 +1272,10 @@ input[type=text].former {
     bottom: 12px;
     height: 2px;
     width: 50px;
-    background-color: #fe214f
+    background-color: #e6a337;
 }
+
+#e6a337
 
 .sec-title .title {
     position: relative;
@@ -1289,7 +1291,7 @@ input[type=text].former {
     height: 5px;
     width: 72px;
     left: 0;
-    background: #fe214f;
+    background: #e6a337;
     top: -18px;
     position: absolute
 }
@@ -1331,13 +1333,13 @@ input[type=text].former {
 
 .heading-font {
     font-weight: 700 !important;
-    color: #fe214f
+    color: #e6a337
 }
 
 .rt-heading-wrapper.style-2 .style-2:after {
     content: "";
     height: 4px;
-    background-color: #fe214f;
+    background-color: #e6a337;
     right: 0;
     position: absolute;
     top: calc(.5em - 2px);
@@ -1461,7 +1463,7 @@ input[type=text].former {
 
 .services-icon .glyph-icon::before {
     font-size: 48px;
-    color: #fe214f;
+    color: #e6a337;
     margin-left: 0;
     transition: 0.6s;
 }
@@ -1474,12 +1476,12 @@ input[type=text].former {
 
 .services-icon2 .glyph-icon::before {
     font-size: 120px;
-    color: #fe214f0d;
+    color: #e6a3370d;
     margin-left: 0
 }
 
 .s-single-services:hover {
-    background-color: #fe214f
+    background-color: #e6a337
 }
 
 .s-single-services:hover h3 {
@@ -1511,7 +1513,7 @@ input[type=text].former {
 }
 
 .method h3 {
-    color: #fe214f
+    color: #e6a337
 }
 
 @-webkit-keyframes swing {
@@ -1713,7 +1715,7 @@ input[type=text].former {
 
 .feature-block .inner-box .overlay-box h4 a {
     position: relative;
-    color: #fe214f
+    color: #e6a337
 }
 
 .featured-section-two .content-column {
@@ -1787,7 +1789,7 @@ input[type=text].former {
 .seprator {
     height: 2px;
     width: 56px;
-    background-color: #fe214f;
+    background-color: #e6a337;
     margin: 7px 0 10px 0
 }
 
@@ -1797,7 +1799,7 @@ input[type=text].former {
 
 .did-you-know {
     padding: 40px 0;
-    background-color: #e21024;
+    background-color: #e6a337;
     position: relative;
 }
 
@@ -1959,7 +1961,7 @@ input[type=text].former {
 }
 
 .btn-main:hover {
-    background-color: #e21024;
+    background-color: #e6a337;
     border: 1px solid #fff;
     color: #fff;
     box-shadow: 0 0 10px #000;
@@ -1990,7 +1992,7 @@ input[type=text].former {
 }
 
 .red {
-    color: #e2154e;
+    color: #e6a337;
 }
 
 a:focus,
@@ -2026,7 +2028,7 @@ a:hover {
     transition: .3s;
     padding: 30px;
     height: auto;
-    border-bottom: 2px solid #e2154e;
+    border-bottom: 2px solid #e6a337;
     border-radius: 10px;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
@@ -2059,7 +2061,7 @@ a:hover {
 
 .icn i {
     font-size: 36px;
-    color: #e2154e;
+    color: #e6a337;
 }
 
 #contact {
@@ -2166,7 +2168,7 @@ textarea {
     height: 80px;
     opacity: 0.9;
     border-radius: 100%;
-    background-color: #e2154e;
+    background-color: #e6a337;
     animation: rotate 7s infinite alternate;
 }
 

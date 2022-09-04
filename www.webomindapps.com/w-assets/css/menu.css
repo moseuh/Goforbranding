@@ -597,7 +597,7 @@ input[type=email].footer-form, input[type=number].footer-form, input[type=text].
 }
 
 .submit-div {
-    background-color: #cc002a!important;
+    background-color: #e6a337 !important;
     padding: 7px 30px;
     width: 85% !important;
     border: none;

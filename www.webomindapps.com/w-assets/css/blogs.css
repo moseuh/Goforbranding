@@ -48,7 +48,7 @@ body {
 }
 
 .contact-top a:hover {
-    color: #ff214f
+    color: #e6a337;
 }
 
 .contact-infos {
@@ -343,7 +343,7 @@ input[type=text].footer-form {
 
 .request-a-call {
     font-size: 26px;
-    color: #e2154e;
+    color: #e6a337;
     font-weight: 700
 }
 
@@ -1252,7 +1252,7 @@ input[type=text].former {
     padding: 10px 30px 10px 29px;
     text-transform: uppercase;
     margin-top: 2%;
-    background: #e10935;
+    background: #e6a337;
     border: none
 }
 
@@ -1263,7 +1263,7 @@ input[type=text].former {
     bottom: 12px;
     height: 2px;
     width: 50px;
-    background-color: #fe214f
+    background-color: #e6a337
 }
 
 .sec-title .title {
@@ -1995,7 +1995,7 @@ a:hover {
 }
 
 .cat-txt:hover a {
-    color: #e2154e;
+    color: #e6a337;
 }
 
 h2.title-txt {
@@ -2005,7 +2005,7 @@ h2.title-txt {
 
 .title-txt a {
     font-size: 18px;
-    color: #e2154e;
+    color: #e6a337;
     font-weight: 600;
     transition: 0.6s;
     -webkit-transition: 0.6s;
@@ -2019,7 +2019,7 @@ h2.title-txt {
 }
 
 .author a {
-    color: #e2154e;
+    color: #e6a337;
 }
 
 .icons i {
